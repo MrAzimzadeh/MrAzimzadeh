@@ -4,8 +4,10 @@
  HTML, CSS, JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+        -Wep:www.azimzada.com
         -E-mail:mehemmmedezimzase@gmail.com
         -Telegram:https://t.me/MAzimzadeh
+        
 
 <!---
 MrAzimzadeh/MrAzimzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
