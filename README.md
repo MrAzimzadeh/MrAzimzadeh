@@ -1,13 +1,6 @@
 # 💫 About Me:
 
 I`m Mahammad Azimzada
-<br>
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  <br>
-
-
 <!--  -->
 
 ![large](https://user-images.githubusercontent.com/87151403/213150441-d9ccc030-5b93-461f-b847-26d0458558a8.svg)
@@ -82,7 +75,6 @@ I`m Mahammad Azimzada
 <br/>  
 
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 
