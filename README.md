@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahammad Azimzada</h1>
-<h3 align="center">"Experienced in .NET and Web Development, currently expanding skills in Mobile Development with Kotlin."</h3>
+<h3 align="center">"Experienced in .NET and Web Development, currently expanding skills in Mobile Development with Kotlin/Flutter."</h3>
 <div align="center">
   <p>
     <img src="https://www.codewars.com/users/MrAzimzadeh/badges/large" alt="CodeWars Badge">
