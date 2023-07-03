@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [azimzada.com](https://azimzada.com)
 
-- 💬 Ask me about **".NET and Java development, web and mobile application development, and database management."**
+- 💬 Ask me about **".NET and Kotlin/flutter development, web and mobile application development, and database management."**
 
 - 📫 How to reach me **azimzada.mahammad@gmail.com**
 
