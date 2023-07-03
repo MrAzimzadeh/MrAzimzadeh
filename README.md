@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrazimzadeh" alt="mrazimzadeh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [azimzada.com](azimzada.com)
+- 👨‍💻 All of my projects are available at [https://azimzada.com](azimzada.com)
 
 - 💬 Ask me about **".NET and Java development, web and mobile application development, and database management."**
 
