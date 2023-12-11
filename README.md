@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahammad Azimzada</h1>
 <h3 align="center">"Experienced in .NET and Web Development, currently expanding skills in Mobile Development with Kotlin"</h3>
-\
+
 <div align="center">
   <a href="https://user-badge.committers.top/azerbaijan/MrAzimzadeh">
     <img src="https://user-badge.committers.top/azerbaijan/MrAzimzadeh.svg" alt="committers.top badge">
