@@ -2,6 +2,7 @@
 <h3 align="center">"Experienced in .NET and Web Development, currently expanding skills in Mobile Development with Flutter"</h3>
 
 <div align="center">
+  <p>Writing code is an art....<p>
   <p>Kod yazmaq bir sənətdir...</p>
 </div>
 
